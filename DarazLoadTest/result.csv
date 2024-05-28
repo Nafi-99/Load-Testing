@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1716905866120,9932,HTTP Request,200,OK,DarazThreadGroup 1-6,text,true,,1143969,118,10,10,https://www.daraz.com.bd/,399,0,340
+1716905863743,13100,HTTP Request,200,OK,DarazThreadGroup 1-1,text,true,,1145152,118,10,10,https://www.daraz.com.bd/,2217,0,2109
+1716905868119,9362,HTTP Request,200,OK,DarazThreadGroup 1-10,text,true,,1145152,118,10,10,https://www.daraz.com.bd/,989,0,513
+1716905864624,13052,HTTP Request,200,OK,DarazThreadGroup 1-3,text,true,,1143974,118,10,10,https://www.daraz.com.bd/,374,0,283
+1716905866620,11183,HTTP Request,200,OK,DarazThreadGroup 1-7,text,true,,1143976,118,10,10,https://www.daraz.com.bd/,1076,0,855
+1716905865620,12184,HTTP Request,200,OK,DarazThreadGroup 1-5,text,true,,1143982,118,10,10,https://www.daraz.com.bd/,840,0,555
+1716905865131,13187,HTTP Request,200,OK,DarazThreadGroup 1-4,text,true,,1143966,118,10,10,https://www.daraz.com.bd/,830,0,722
+1716905864124,14338,HTTP Request,200,OK,DarazThreadGroup 1-2,text,true,,1145168,118,10,10,https://www.daraz.com.bd/,874,0,783
+1716905867119,12915,HTTP Request,200,OK,DarazThreadGroup 1-8,text,true,,1145138,118,10,10,https://www.daraz.com.bd/,1187,0,577
+1716905867618,17204,HTTP Request,200,OK,DarazThreadGroup 1-9,text,true,,1143973,118,10,10,https://www.daraz.com.bd/,1578,0,774
+1716905876069,11148,HTTP Request,200,OK,DarazThreadGroup 1-6,text,true,,1143965,118,10,10,https://www.daraz.com.bd/,137,0,0
+1716905876846,12064,HTTP Request,200,OK,DarazThreadGroup 1-1,text,true,,1145145,118,9,9,https://www.daraz.com.bd/,64,0,0
+1716905878319,15874,HTTP Request,200,OK,DarazThreadGroup 1-4,text,true,,1143967,118,8,8,https://www.daraz.com.bd/,142,0,0
+1716905877677,18506,HTTP Request,200,OK,DarazThreadGroup 1-3,text,true,,1145161,118,7,7,https://www.daraz.com.bd/,62,0,0
+1716905878463,19288,HTTP Request,200,OK,DarazThreadGroup 1-2,text,true,,1144000,118,6,6,https://www.daraz.com.bd/,61,0,0
+1716905877483,20873,HTTP Request,200,OK,DarazThreadGroup 1-10,text,true,,1143967,118,5,5,https://www.daraz.com.bd/,62,0,0
+1716905877805,22553,HTTP Request,200,OK,DarazThreadGroup 1-5,text,true,,1144000,118,4,4,https://www.daraz.com.bd/,99,0,0
+1716905880041,20419,HTTP Request,200,OK,DarazThreadGroup 1-8,text,true,,1143981,118,3,3,https://www.daraz.com.bd/,107,0,0
+1716905877804,22708,HTTP Request,200,OK,DarazThreadGroup 1-7,text,true,,1145185,118,2,2,https://www.daraz.com.bd/,231,0,0
+1716905884823,16815,HTTP Request,200,OK,DarazThreadGroup 1-9,text,true,,1145148,118,1,1,https://www.daraz.com.bd/,155,0,0
